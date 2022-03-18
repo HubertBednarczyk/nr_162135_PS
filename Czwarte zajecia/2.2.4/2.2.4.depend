@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647539368 source:c:\users\h_bed\desktop\zadania jezyk c\18.03.2022\2.2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

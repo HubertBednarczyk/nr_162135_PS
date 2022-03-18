@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 void zlicz();
+<<<<<<< HEAD
+=======
+int zliczilosc=0;
+>>>>>>> fddabd04cb364ccbab11b4eb62224016b280523c
 int main()
 {
     int liczba;
@@ -15,7 +19,12 @@ int main()
 
 void zlicz()
 {
+<<<<<<< HEAD
     static unsigned int zliczilosc=0;
     zliczilosc++;
     printf("%d razy \n",zliczilosc);
+=======
+    zliczilosc++;
+    printf("funkcja wykona³a sie %i razy\n",zliczilosc);
+>>>>>>> fddabd04cb364ccbab11b4eb62224016b280523c
 }

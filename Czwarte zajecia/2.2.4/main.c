@@ -18,3 +18,7 @@ int main()
     printf("Wartosc 2 ^ n = %lf \n", pow(2, n));
     return 0;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> fddabd04cb364ccbab11b4eb62224016b280523c

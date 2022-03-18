@@ -1,5 +1,10 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1647588900 source:d:\162135\nr_162135_ps\czwarte zajecia\2.2.3\main.c
+=======
+1647537913 source:c:\users\h_bed\desktop\codeblock projekty\podstawy\zabijcie mnie\zadania jezyk c\18.03.2022\2.2.3\main.c
+	<stdlib.h>
+>>>>>>> fddabd04cb364ccbab11b4eb62224016b280523c
 	<stdio.h>
 	<stdlib.h>
 
