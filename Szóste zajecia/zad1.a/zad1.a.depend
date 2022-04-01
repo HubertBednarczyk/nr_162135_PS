@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648794420 source:d:\162135\nr_162135_ps\szóste zajecia\zad1.a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
