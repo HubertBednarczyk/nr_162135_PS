@@ -41,8 +41,12 @@ double potega(int n,int m,int p)
 int main()
 {
     int n,m,p;
-    printf("Wpisz liczby n i m oraz p: \n");
-    scanf("%d %d %d",&n,&m,&p);
+    printf("Wpisz liczbe n: \n");
+    scanf("%d",&n);
+    printf("Wpisz liczbe m: \n");
+    scanf("%d",&m);
+    printf("Wpisz liczbe p: \n");
+    scanf("%d",&p);
     if((n!=0)||(m!=0)||(p!=0))
         printf("%lf",potega(n,m,p));
     else
