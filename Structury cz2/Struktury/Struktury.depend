@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653029323 source:d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\linesegment.c
+	<stdio.h>
+	<math.h>
+	"point.h"
+	"linesegment.h"
+
+1653029323 d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\point.h
+
+1653029323 d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\linesegment.h
+	"point.h"
+
+1653029323 source:d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linesegment.h"
+	"point.h"
+
+1653029092 source:d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\namedpoint.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"namedpoint.h"
+
+1653029323 d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\namedpoint.h
+	"point.h"
+
+1653029323 source:d:\162135\nr_162135_ps\Ósme zajecia\structury cz2\struktury\point.c
+	<stdio.h>
+	<math.h>
+	"point.h"
+
